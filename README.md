@@ -52,3 +52,11 @@ The official colors of Bangazon! are:
     
 1. White
     * #fff
+    
+The Slate Gray should always be used in the navigation bar on any Bangazon! website or application. The Bangazon! title should always be present and colored Light Gray in the navigation bar.
+
+Bangazon Blue should be the default color for buttons and anchor tags on any Bangazon! website or application. Navigation links in the navigation bar should be Light Gray.
+
+The background color for all pages for Bangazon! websites or application should default to white.
+
+
