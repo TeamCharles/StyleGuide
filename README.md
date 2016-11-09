@@ -9,7 +9,7 @@
 
 1. [Typography](https://github.com/TeamCharles/StyleGuide/blob/master/README.md#typography)
 
-1. Page Layouts
+1. [Page Layouts](https://github.com/TeamCharles/StyleGuide#page-layouts)
 
 ---
 
