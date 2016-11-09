@@ -35,5 +35,20 @@ The Bangazon Logo should never be present with a background that is not slate gr
 
 The Bangazon Logo always requires the **!** to be present at the end.
 
+---
 
+## Colors
 
+The official colors of Bangazon! are:
+
+1. Slate Gray 
+    * #222
+    
+1. Light Gray
+    * #9d9d9d
+    
+1. Bangazon Blue
+    * #337ab7
+    
+1. White
+    * #fff
