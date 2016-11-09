@@ -3,11 +3,11 @@
 
 ## Table of Contents
 
-1. Identity
+1. [Identity](https://github.com/TeamCharles/StyleGuide/blob/master/README.md#identity)
 
-1. Colors
+1. [Colors](https://github.com/TeamCharles/StyleGuide/blob/master/README.md#colors)
 
-1. Typography
+1. [Typography](https://github.com/TeamCharles/StyleGuide/blob/master/README.md#typography)
 
 1. Page Layouts
 
