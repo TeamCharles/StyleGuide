@@ -74,3 +74,5 @@ Any Bangazon! application should default to using Helvetica Neue, Helvetica, Ari
 Each page of a Bangazon! web application should display a slate gray navigation bar at the top with light gray links and the official Bangazon! logo.
 
 The bottom of each page should contain a footer with a copyright notice for Bangazon! incorporated.
+
+Any table layouts that need to be displayed within a Bangazon! web application should default to using the [Bootstrap 3](https://getbootstrap.com/) `table` class. 
