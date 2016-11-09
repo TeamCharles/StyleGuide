@@ -19,13 +19,13 @@ Bangazon empowers our customers to buy and sell with ease on our platform.
 Our platform enables shoppers to connect with sellers from around the world.
 We value seller integrity and the empowerment of our sellers. This is exemplified in the Bangazon logo:
 
-#### CORRECT PRESENTATION
+### CORRECT PRESENTATION
 
 ![Official Logo](https://i.imgur.com/ZZPJhCC.png)
 
 The Bangazon Logo should always be present with the **!** on the end. This exemplifies our customers' and sellers' excitement to use our platform.
 
-#### INCORRECT PRESENTATION
+### INCORRECT PRESENTATION
 
 ![Wrong Logo](https://i.imgur.com/SJvm8rp.png)
 
