@@ -60,3 +60,15 @@ Bangazon Blue should be the default color for buttons and anchor tags on any Ban
 The background color for all pages for Bangazon! websites or application should default to white.
 
 The development team should use the [Bootstrap 3 CSS Library](https://getbootstrap.com/) classes to style web applications.
+
+---
+
+## Typography
+
+Any Bangazon! application should default to using Helvetica Neue, Helvetica, Arial, or another sans-serif font. Comic sans is strictly prohibited in any Bangazon! communications.
+
+---
+
+## Page Layouts
+
+
